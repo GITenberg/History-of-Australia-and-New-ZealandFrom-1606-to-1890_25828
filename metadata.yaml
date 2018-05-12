@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31599
     wikipedia: http://en.wikipedia.org/wiki/Alexander_Sutherland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25828#History-of-Australia-and-New-ZealandFrom-1606-to-1890
 gutenberg_bookshelf:
 - Australia
 - New Zealand
