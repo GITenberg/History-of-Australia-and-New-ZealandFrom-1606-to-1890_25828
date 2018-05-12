@@ -1,0 +1,38 @@
+_repo: History-of-Australia-and-New-ZealandFrom-1606-to-1890_25828
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25828-h/images/imgcover.jpg
+creator:
+  authors:
+  - agent_name: Sutherland, George
+    birthdate: 1855
+    deathdate: 1905
+    gutenberg_agent_id: '31600'
+    url: http://www.gutenberg.org/2009/agents/31600
+  - agent_name: Sutherland, Alexander
+    birthdate: 1852
+    deathdate: 1902
+    gutenberg_agent_id: '31599'
+    url: http://www.gutenberg.org/2009/agents/31599
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Sutherland
+description: ''
+gutenberg_bookshelf:
+- Australia
+- New Zealand
+gutenberg_issued: '2008-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25828'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Zealand -- History'
+- !lcc 'DU'
+- !lcsh 'Australia -- History'
+title: 'History of Australia and New Zealand
+
+  From 1606 to 1890'
+url: http://www.gutenberg.org/ebooks/25828
